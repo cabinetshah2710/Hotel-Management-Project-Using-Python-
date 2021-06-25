@@ -96,6 +96,6 @@ This module is used to help user to see the gallery of the hotel.
 
 
 REFERENCES
-1.	Geek for geeks
+1.	Geeksforgeeks
 2.	Harry bro
 3.	Tutorial point
